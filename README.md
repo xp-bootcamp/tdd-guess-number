@@ -1,4 +1,4 @@
-# TDD @Gilded Rose
+# TDD @Guess Number
 
 ![Build](https://github.com/xpbootcamp/tdd-guess-number/workflows/Build/badge.svg)
 本项目代码采用了采用tdd的方式实现猜数字游戏
